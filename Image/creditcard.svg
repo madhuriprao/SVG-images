@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="220" viewbox="0 0 220 220" fill="none">
+    <rect 
+        x="20" 
+        y="20" 
+        width="200" 
+        height="100"
+        fill="black"
+        rx="20"
+        ry="20"
+    />
+    <polyline
+        points="20,80 220,80"
+        stroke="white"
+        stroke-width="20"
+        fill="white"
+    />
+</svg>
