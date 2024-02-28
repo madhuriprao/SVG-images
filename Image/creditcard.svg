@@ -1,4 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="220" height="220" viewbox="0 0 220 220" fill="none">
+<symbol id="credit">
     <rect 
         x="20" 
         y="20" 
@@ -14,4 +15,5 @@
         stroke-width="20"
         fill="white"
     />
+    </symbol>
 </svg>
